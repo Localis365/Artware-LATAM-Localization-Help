@@ -1,0 +1,6 @@
+#AJUSTE POR INFLACIÓN
+
+.....
+....
+SDFBADF
+SDFASDG
