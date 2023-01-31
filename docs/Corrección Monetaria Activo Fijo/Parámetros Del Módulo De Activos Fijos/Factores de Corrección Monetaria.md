@@ -6,8 +6,4 @@ En la siguiente tabla se presentan los porcentajes de corrección monetaria para
 
 **Porcentajes de Actualización Correccion Monetaria (Termino de Giro),Año 2022**
 
-![Screenshot](img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png)
-
-![Screenshot](Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png)
-
 ![image](https://github.com/Localis365/Artware-LATAM-Localization-Help/blob/main/docs/Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png)
