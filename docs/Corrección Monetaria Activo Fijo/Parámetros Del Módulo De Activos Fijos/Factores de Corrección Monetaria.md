@@ -8,9 +8,6 @@ En la siguiente tabla se presentan los porcentajes de corrección monetaria para
 
 ![Screenshot](img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png)
 
+![Screenshot](Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png)
+
 ![image](https://github.com/Localis365/Artware-LATAM-Localization-Help/blob/main/docs/Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png)
-
-
-<div align="center">
-    <img src="/Corrección Monetaria Activo Fijo/img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png" width="400px"</img> 
-</div>
