@@ -5,4 +5,4 @@ La corrección en el valor de los activos fijos debe efectuarse expresando el co
 En la siguiente tabla se presentan los porcentajes de corrección monetaria para término de giro para los meses del año 2022.
 
 **Porcentajes de Actualización Correccion Monetaria (Termino de Giro),Año 2022**
-![Screenshot](img/FactoresCorreccionMonetaria/Monetary Correction Update Percentages.png)
+![Screenshot](img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.jpg)
