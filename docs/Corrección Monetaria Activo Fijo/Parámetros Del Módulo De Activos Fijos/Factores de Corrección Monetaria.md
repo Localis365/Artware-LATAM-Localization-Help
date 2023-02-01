@@ -26,6 +26,12 @@ La información de los porcentajes de actualización para el cálculo de la corr
     <img src="https://github.com/Localis365/Artware-LATAM-Localization-Help/blob/main/docs/Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/Menu-Page.png" width="650px"</img> 
 </div>
 
+<h4><i><b>La Ventana Factores de Corrección Monetaria </b></i></h4>
+
+<div align="center">
+    <img src="https://github.com/Localis365/Artware-LATAM-Localization-Help/blob/main/docs/Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/LaVentanaFactoresCM.png" width="650px"</img> 
+</div>
+
 
 En la siguiente tabla se presentan los porcentajes de corrección monetaria para término de giro para los meses del año 2022.
 
