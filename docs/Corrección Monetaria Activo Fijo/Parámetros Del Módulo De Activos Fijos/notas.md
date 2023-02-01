@@ -1,8 +1,4 @@
-<div style="background-color:aliceblue;">
- <h4>Factores de Corrección Monetaria</h4>
-
-
-**Definición**
+#**Factores de Corrección Monetaria**
 
 La corrección en el valor de los activos fijos debe efectuarse expresando el costo de adquisiciónde los activos disponibles al comienzo del ejercicio, en moneda equivalente, esto es ajustándolo por la variación del índice de precios ocurrida durante el ejercicio. 
 
@@ -11,5 +7,3 @@ En la siguiente tabla se presentan los porcentajes de corrección monetaria para
 **Porcentajes de Actualización Correccion Monetaria (Termino de Giro),Año 2022**
 
 ![image](https://github.com/Localis365/Artware-LATAM-Localization-Help/blob/main/docs/Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/PorcentajesActualizacionCM.png)
-
-</div>
