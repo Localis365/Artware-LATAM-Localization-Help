@@ -26,9 +26,12 @@ La información de los porcentajes de actualización para el cálculo de la corr
     <img src="https://github.com/Localis365/Artware-LATAM-Localization-Help/blob/main/docs/Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/Menu-Page.png" width="650px"</img> 
 </div>
 
+
 <i><b>La Ventana Factores de Corrección Monetaria </b></i>
 
 Para la <b>creación de un nuevo año tributario</b> y sus correspondientes porcentajes de variación a aplicar, se debe oprimir el botón crear <b>Nuevo</b>.
+También es posible eliminar un año completo empleando el botón <b>Eliminar</b> año
+
 
 <div align="center">
     <img src="https://github.com/Localis365/Artware-LATAM-Localization-Help/blob/main/docs/Correcci%C3%B3n%20Monetaria%20Activo%20Fijo/img/FactoresCorreccionMonetaria/LaVentanaFactoresCM.png" width="750px"</img> 
@@ -46,8 +49,5 @@ A partir del cual se abre el formulario principal de creación donde se indica e
 De manera automática el sistema carga en la tabla los <b>Porcentajes de actualización de la corrección monetaria.</b>
 Estos periodos se van actualizando todo el año, a medida que los valores sean publicados por el SII:
 
-En la siguiente tabla se presentan los porcentajes de corrección monetaria para término de giro para los meses del año 2022.
 
-**Porcentajes de Actualización Correccion Monetaria (Termino de Giro),Año 2022**
-
-
+Desde el buscador se ingresa al formulario de Configuración de Activos Fijos, donde se deberá activar el % de crédito fiscal, sí la compañía, de acuerdo con el presupuesto de compras de bienes de uso que tiene, estima no superar el límite de crédito fiscal permitido por el SII.
