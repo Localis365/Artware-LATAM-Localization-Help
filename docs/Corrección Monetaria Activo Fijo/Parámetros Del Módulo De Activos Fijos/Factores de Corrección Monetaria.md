@@ -27,6 +27,7 @@ La información de los porcentajes de actualización para el cálculo de la corr
 </div>
 
 <i><b>La Ventana Factores de Corrección Monetaria </b></i>
+
 Para la <b>creación de un nuevo año tributario</b> y sus correspondientes porcentajes de variación a aplicar, se debe oprimir el botón crear <b>Nuevo</b>.
 
 <div align="center">
